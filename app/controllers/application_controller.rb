@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
  end
  
   def gb
-    render html: "Good buy"
+    render html: "Good buy & say Good buy again!"
   end
  
 end
